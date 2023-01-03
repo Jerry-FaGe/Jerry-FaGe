@@ -47,7 +47,7 @@
 
 [![](https://chat.getloli.com/room/@Jerry-FaGe.github/svg?width=600&height=200&limit=20&theme=light&title=Jerry-FaGe@github:%20~&fontSize=13)](https://chat.getloli.com/room/@Jerry-FaGe.github?title=Jerry-FaGe的留言板)
 
-#### 
+#### GitHub Calendar
 [![Jerry-FaGe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-FaGe&bg_color=151515&show_icons=true&text_color=dadada&icon_color=0099ff&title_color=0099ff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-FaGe&bg_color=151515&title_color=00a0ff&text_color=eeeeee&layout=compact&hide=css&exclude_repo=RSSHub,my_blog_site)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,7 +57,7 @@
 ![](https://img.shields.io/badge/-Epic%20Games-313131?style=flat-square&logo=Epic-Games&logoColor=ffffff)
 
 ##### Genshin Impact
-[![](https://genshin-card.getloli.com/detail/4,5,27-30,32,35,37-39/18642672.png)](https://genshin-card.getloli.com)
+[![](https://genshin-card.getloli.com/rand/18642672.png)](https://genshin-card.getloli.com)
 
 <!--
 **Jerry-FaGe/Jerry-FaGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

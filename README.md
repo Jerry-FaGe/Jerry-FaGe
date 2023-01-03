@@ -53,7 +53,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-FaGe&bg_color=151515&title_color=00a0ff&text_color=eeeeee&layout=compact&hide=css&exclude_repo=RSSHub,my_blog_site)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Console&Game
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/76561198115950220)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/Jerry_FaGe)
 ![](https://img.shields.io/badge/-Epic%20Games-313131?style=flat-square&logo=Epic-Games&logoColor=ffffff)
 
 ##### Genshin Impact

@@ -56,9 +56,6 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/Jerry_FaGe)
 ![](https://img.shields.io/badge/-Epic%20Games-313131?style=flat-square&logo=Epic-Games&logoColor=ffffff)
 
-##### Genshin Impact
-[![](https://genshin-card.getloli.com/rand/18642672.png)](https://genshin-card.getloli.com)
-
 <!--
 **Jerry-FaGe/Jerry-FaGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
